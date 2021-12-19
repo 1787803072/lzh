@@ -1,0 +1,11 @@
+/secure/page
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+
+/static/*
+  Access-Control-Allow-Origin: *
+  X-Robots-Tag: nosnippet
+
+http://139.155.90.53:5710/login/*
+  X-Robots-Tag: noindex
