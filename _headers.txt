@@ -7,5 +7,5 @@
   Access-Control-Allow-Origin: *
   X-Robots-Tag: nosnippet
 
-http://139.155.90.53:5710/login/*
+https://myproject.pages.dev/*
   X-Robots-Tag: noindex
